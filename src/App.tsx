@@ -73,7 +73,7 @@ export default function App() {
 }
 
 const GlobalStyle = createGlobalStyle`
-  ${reset}
+	${reset}
 
 `;
 
